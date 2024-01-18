@@ -293,7 +293,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-
   - block: markdown
     id: news
     content:
@@ -301,14 +300,13 @@ sections:
       widget: "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
       headless: true  # This file represents a page section.
       active: true  # Activate this widget? true/false
-# weight:  3  # Order that this section will appear.
+      # weight:  3  # Order that this section will appear.
       subtitle: "[All news>>](/news)"
       text: |-
         {{< readfromfile "/content/newslist.dat" 5 >}} 
     design:
       columns: 2
       # {{< readfromfile "/content/newslist.dat" 5 >}} 
- 
   # - block: markdown
   #   content:
   #     title: Gallery
@@ -317,7 +315,6 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'   
-
   - block: collection
     id: featured
     content:
@@ -329,7 +326,6 @@ sections:
     design:
       columns: '2'
       view: card
-
   - block: collection
     content:
       title: Recent Publications
@@ -345,7 +341,6 @@ sections:
       columns: '2'
       view: citation
       # list, compact, card, citation, showcase
-  
   - block: portfolio
     id: projects
     content:
@@ -391,7 +386,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-
   - block: markdown
     id: honors
     content:
