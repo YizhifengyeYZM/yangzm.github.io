@@ -400,36 +400,10 @@ sections:
       headless: true  # This file represents a page section.
       active: true  # Activate this widget? true/false
       share: false
-# weight:  3  # Order that this section will appear.
+      # weight:  3  # Order that this section will appear.
       subtitle: "[All honors and awards>>](/honors)"
       text: |-
         {{< readfromfile "/content/honorslist.dat" 5 >}} 
     design:
       columns: 2
-  
-  # - block: markdown
-  #   content:
-  #     title: Gallery
-  #     subtitle: ''
-  #     text: |-
-  #       {{< gallery album="demo" >}}
-  #   design:
-  #     columns: '1'
-
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     columns: '2'
-  #     view: compact
-  # - block: tag_cloud
-  #   content:
-  #     title: Popular Topics
-  #   design:
-  #     columns: '2'
-
 ---
