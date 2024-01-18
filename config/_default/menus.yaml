@@ -3,25 +3,60 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+# 下面的内容是主页最顶上的菜单栏部分
 main:
+  # 以下是原版模板中的菜单栏：
+  # - name: Home
+  #   url: '#about'
+  #   weight: 10
+  # - name: Posts
+  #   url: '#posts'
+  #   weight: 20
+  # - name: Projects
+  #   url: '#projects'
+  #   weight: 30
+  # - name: Talks
+  #   url: '#talks'
+  #   weight: 40
+  # - name: Publications
+  #   url: '#featured'
+  #   weight: 50
+  # - name: Contact
+  #   url: '#contact'
+  #   weight: 60
+
+  # 以下是套用了 wenbinzhai 的模板：
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: News
+    url: '#news'
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
   - name: Publications
     url: '#featured'
+    weight: 30
+  - name: Research
+    url: '#projects'
+    weight: 40
+  # - name: Posts
+  #   url: '#posts'
+  #   weight: 40
+  # - name: Talks
+  #   url: '#talks'
+  #   weight: 50
+  # - name: Contact
+  #   url: '#contact'
+    # weight: 60
+  - name: Honors and Awards
+    url: '#honors'
     weight: 50
-  - name: Contact
-    url: '#contact'
+  - name: Collaborator
+    url: '#collaborator'
     weight: 60
+  - name: Resume
+    url: uploads/CV_WenbinZhai.pdf
+    weight: 70
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

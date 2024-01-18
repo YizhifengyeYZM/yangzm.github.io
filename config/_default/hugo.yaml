@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Zemin Yang's homepage  # 标签页上显示的内容(图标旁边)
+baseURL: 'https://yizhifengyeyzm.github.io/' # Website URL(先试着写 github.io 的 URL)
 
 ############################
 ## LANGUAGE
