@@ -123,5 +123,5 @@ email: 'csyzm@cug.edu.cn'
 highlight_name: true
 ---
 
-I am currently an undergraduate student majoring in Data Science and Big Data Technology at [China University of Geosciences](https://www.cug.edu.cn/), Wuhan, Hubei Province. I will receive the B.S degree in June 2024 and go to [ShanghaiTech University](https://www.shanghaitech.edu.cn/) to pursue my M.S degree in Computer Science and Technology. {{< math >}}$\text{My current research interest includes computer vision, autonomous driving and robotics.}${{< math >}}
+I am currently an undergraduate student majoring in Data Science and Big Data Technology at [China University of Geosciences](https://www.cug.edu.cn/), Wuhan, Hubei Province. I will receive the B.S degree in June 2024 and go to [ShanghaiTech University](https://www.shanghaitech.edu.cn/) to pursue my M.S degree in Computer Science and Technology. {{< math >}}$\\text{My current research interest includes computer vision, autonomous driving and robotics.}${{< math >}}
 {style="text-align: justify;"}
