@@ -60,7 +60,6 @@ locale:
   address_format: en-us
 
 # Site features
-
 features:
   syntax_highlighter:
     theme_light: github-light
