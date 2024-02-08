@@ -11,7 +11,7 @@ baseURL: 'https://yizhifengyeyzm.github.io/' # Website URL(先试着写 github.i
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+hasCJKLanguage: true          # 改这个之后应该就能搞些中文了
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
