@@ -342,6 +342,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+  
   - block: collection
     id: featured
     content:
@@ -353,6 +354,8 @@ sections:
     design:
       columns: '2'
       view: card
+  
+  
   - block: collection
     content:
       title: Recent Publications
@@ -368,6 +371,8 @@ sections:
       columns: '2'
       view: citation
       # list, compact, card, citation, showcase
+  
+  
   - block: portfolio
     id: projects
     content:
@@ -413,6 +418,8 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  
+  
   - block: markdown
     id: honors
     content:

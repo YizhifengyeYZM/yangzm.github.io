@@ -32,15 +32,16 @@ main:
   - name: News
     url: '#news'
     weight: 20
+  - name: Blogs
+    url: '#posts'
+    weight: 30
   - name: Publications
     url: '#featured'
-    weight: 30
+    weight: 40
   - name: Research
     url: '#projects'
-    weight: 40
-  # - name: Posts
-  #   url: '#posts'
-  #   weight: 40
+    weight: 50
+
   # - name: Talks
   #   url: '#talks'
   #   weight: 50
@@ -49,10 +50,10 @@ main:
     # weight: 60
   - name: Honors and Awards
     url: '#honors'
-    weight: 50
-  - name: Collaborator
-    url: '#collaborator'
     weight: 60
+  # - name: Collaborator
+  #   url: '#collaborator'
+  #   weight: 60
   - name: Resume
     url: uploads/CV_WenbinZhai.pdf
     weight: 70
