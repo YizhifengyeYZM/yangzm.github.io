@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: lpips
-  theme_night: minimal
+  theme_night: lpips      # minimal
   font: Rose         # 原版是 minimal，现在改成 Rose
   font_size: L
 
