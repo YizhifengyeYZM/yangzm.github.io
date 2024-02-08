@@ -113,18 +113,17 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_en.pdf   # 先换成我的英文简历吧
+    link: static/uploads/CV_en.pdf   # 先换成我的英文简历吧
 
 # 下面这个是我从 wenbizhai 那里拿过来的
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'csyzm@cug.edu.cn'
+
+# Georgia, Times
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
 I am currently an undergraduate student majoring in Data Science and Big Data Technology at [China University of Geosciences](https://www.cug.edu.cn/), Wuhan, Hubei Province. I will receive the B.S degree in June 2024 and go to [ShanghaiTech University](https://www.shanghaitech.edu.cn/) to pursue my M.S degree in Computer Science and Technology. My current research interest includes computer vision, autonomous driving and robotics.
-{style="text-align: justify; font-family: Georgia"}
-
-<!-- {{< math >}}$\text{I am currently an undergraduate student majoring in Data Science and Big Data Technology at }${{< /math >}} [{{< math >}}$\text{China University of Geosciences}${{< /math >}}](https://www.cug.edu.cn/),{{< math >}}$\text{, Wuhan, Hubei Province. I will receive the B.S degree in June 2024 and go to }${{< /math >}}[{{< math >}}$\text{ShanghaiTech University}${{< /math >}}](https://www.shanghaitech.edu.cn/){{< math >}}$\text{ to pursue my M.S degree in Computer Science and Technology. My current research interest includes computer vision, autonomous driving and robotics.}${{< /math >}}
-{style="text-align: justify;"} -->
+{style="text-align: justify; font-family: Times"}   
