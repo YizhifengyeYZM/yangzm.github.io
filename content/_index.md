@@ -315,14 +315,19 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'   
+  
   - block: collection
     id: posts
     content:
       title: Recent Blogs
       subtitle: ''
       text: ''
+      text: |-
+        {{% callout note %}}
+        View all my blogs [here](./post/).
+        {{% /callout %}}
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 3
       # Filter on criteria
       filters:
         folders:
