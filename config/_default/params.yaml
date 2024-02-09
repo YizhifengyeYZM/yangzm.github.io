@@ -64,6 +64,12 @@ features:
   syntax_highlighter:
     theme_light: lapis     # github-light
     theme_dark: dracula
+    extra_languages:
+      - python
+      - py
+      - r
+      - latex
+      - matlab
   math:
     enable: true
   privacy_pack:
