@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night: minimal      # minimal
+  theme_night: my_theme      # minimal
   font: Rose         # 原版是 minimal，现在改成 Rose
   font_size: L
 
@@ -62,7 +62,7 @@ locale:
 # Site features
 features:
   syntax_highlighter:
-    theme_light: lpips     # github-light
+    theme_light: github-light     # github-light
     theme_dark: dracula
   math:
     enable: true
