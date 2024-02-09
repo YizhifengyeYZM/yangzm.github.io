@@ -1,7 +1,9 @@
-/* 
- *     Typora Theme - Lapis    /    Author - YiNN 
- *     https://github.com/YiNNx/typora-theme-lapis
- */
+/* Background */ .bg { color: #f8f8f2; background-color: #282a36; }
+/* PreWrapper */ .chroma { color: #f8f8f2; background-color: #282a36; }
+
+
+
+
 
  :root {
     --text-color: #40464f;

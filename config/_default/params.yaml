@@ -62,7 +62,7 @@ locale:
 # Site features
 features:
   syntax_highlighter:
-    theme_light: lapis     # github-light
+    theme_light: tango     # github-light
     theme_dark: dracula
     extra_languages:
       - python
