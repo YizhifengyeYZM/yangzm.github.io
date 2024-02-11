@@ -2,10 +2,13 @@
 name = "My custom font"
 
 # Optional Google font URL
-google_fonts = "family=Roboto+Mono&family=Source+Sans+Pro:wght@400;700"
+# "family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap"
+# "family=Roboto+Mono&family=Source+Sans+Pro:wght@400;700"
+google_fonts = "family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap"
 
 # Font families
-heading_font = "Source Sans Pro"
+# JetBrainsMono, Roboto Mono
+heading_font = "Lora"
 body_font = "SourceHanSerifCN"
-nav_font = "Source Sans Pro"
-mono_font = "Roboto Mono"
+nav_font = "Lora"
+mono_font = "JetBrainsMono"   
