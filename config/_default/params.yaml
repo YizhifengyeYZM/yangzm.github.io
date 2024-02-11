@@ -8,7 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night: my_theme      # minimal
-  font: custom_font    # Rose         # 原版是 minimal，现在改成 Rose
+  font: Rose # custom_font    # Rose         # 原版是 minimal，现在改成 Rose
   font_size: L
 
 # SEO
