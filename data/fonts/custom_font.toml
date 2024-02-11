@@ -7,8 +7,8 @@ name = "My custom font"
 google_fonts = "family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap"
 
 # Font families
-# JetBrainsMono, Roboto Mono
+# JetBrainsMono, Roboto Mono, SourceHanSerifCN
 heading_font = "Lora"
-body_font = "SourceHanSerifCN"
+body_font = "Roboto"
 nav_font = "Lora"
 mono_font = "JetBrainsMono"   
